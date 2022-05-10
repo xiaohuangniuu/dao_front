@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e9ca203-1166-4a96-a2b5-3209ca516e40" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/SubmitProposal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SystemPanel.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useConfig.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useWalletConnect.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ic/dao/ogy_dao.did.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ic/dao/ogy_dao.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/icnft.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Carousels.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ExploreCollection.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Panel.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/connect/Plug.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/connect/Plug.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/connect/connectors.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/connect/connectors.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/usePlugConnect.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Proposals.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/reducer/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/reducer/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/reducer/plug-slice.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/reducer/connect-slice.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/store.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="l4rfy164" />
+  </component>
+  <component name="ProjectId" id="28mdpRPRMktzbJ3R4pb9Ivcp8nj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pages" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="aws" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$/src/ic/dao" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e9ca203-1166-4a96-a2b5-3209ca516e40" name="Changes" comment="" />
+      <created>1651825877449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651825877449</updated>
+      <workItem from="1651825880346" duration="14808000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
