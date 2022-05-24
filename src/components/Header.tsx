@@ -212,6 +212,7 @@ export default function Header() {
         </chakra.div>
         <chakra.div textAlign={"center"} mb={2}>
           <Text>Canister hold Token Amount: {holdAmount}</Text>
+          <Text>See You Amount:https://7tcwa-gqaaa-aaaad-qbs2a-cai.raw.ic0.app/</Text>
         </chakra.div>
       </chakra.header>
       </chakra.div>
